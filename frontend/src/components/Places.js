@@ -3,6 +3,7 @@ import './Places.css';
 
 const Places = () => {
   const [selectedPlace, setSelectedPlace] = useState(null);
+  const url=="https://fullproject-2.onrender.com"
 
   const places = [
     { 
